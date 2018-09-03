@@ -38,7 +38,7 @@ Além desses documentos, há também o **Termo de Desligamento** que deverá ser
 ### Links e arquivos
 
 *Todos esses documentos podem ser encontrados no Google Drive, na pasta do NUT > Contratos > Termos do CDT.* 
-Link para o drive da NUT: https://drive.google.com/open?id=1FBFFnjTZqLoRRBFqPSaZmxatfAlluInh
-Link para o termo de compromisso: https://docs.google.com/document/d/17SwVD8kU0pQYMo0pFSMwAhCg17eMtHLSnMUzIbmreJ0/
-Link para o cadastro no SIEX: https://www.sistemas.unb.br/autenticacao7/paginas/cadastro_usuario.xhtml
-Link para o ClockiFy: https://clockify.me/
+- Link para o drive da NUT: https://drive.google.com/open?id=1FBFFnjTZqLoRRBFqPSaZmxatfAlluInh
+- Link para o termo de compromisso: https://docs.google.com/document/d/17SwVD8kU0pQYMo0pFSMwAhCg17eMtHLSnMUzIbmreJ0/
+- Link para o cadastro no SIEX: https://www.sistemas.unb.br/autenticacao7/paginas/cadastro_usuario.xhtml
+- Link para o ClockiFy: https://clockify.me/
