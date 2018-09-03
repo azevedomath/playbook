@@ -29,7 +29,7 @@ A documentação requerida pelo CDT é composta por:
 * Lista de Frequência: essa deve ser enviada todo mês, até o dia 20, contendo o nome de todos membros atuais da EJ e suas respectivas matrículas. 
 
 Cada membro, após imprimir e preencher o termo de compromisso, deverá entregar para algum membro da NUT ou deixar o mesmo dentro da pasta de documentos da NUT, dentro da sede.
-A Lista de Frequência é composta por todos os membros, e cada membro deve demonstrar sua frequência dentro da EJ utilizando as horas trabalhadas na mesma, sejam horas de projetos (externos/internos) ou de atividades de núcleo. Sendo assim, é de *extrema* importância que os membros **marquem suas respectivas horas trabalhados** pelo __ClockiFy__.
+A Lista de Frequência é composta por todos os membros, e cada membro deve demonstrar sua frequência dentro da EJ utilizando as horas trabalhadas na mesma, sejam horas de projetos (externos/internos) ou de atividades de núcleo. Sendo assim, é de *extrema* importância que os membros **marquem suas respectivas horas trabalhadas** pelo __ClockiFy__.
 
 Toda essa documentação deverá ser enviada por email para o responsável do projeto dentro da CDT. O Termo de Compromisso e a Lista de Frequência devem ser digitalizados e enviados para o email raphael.saigg@cdt.unb.br. 
 
